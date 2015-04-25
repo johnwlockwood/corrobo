@@ -1,12 +1,12 @@
-Welcome to auth_leader's documentation!
-=======================================
+Welcome to Corrobo's documentation!
+===================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-   getting-started
+   corrobo
 
 Indices and tables
 ==================
