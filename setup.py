@@ -59,15 +59,15 @@ except:
     license_info = 'APACHE 2.0'
 
 setup_args = dict(
-    name="auth_leader",
+    name="corrobo",
     version=get_version(),
     author="John W Lockwood IV",
-    author_email="john@tackletronics.com",
+    author_email="johnwlockwood@gmail.com",
     description="",
     license=license_info,
     keywords="data",
-    url="https://github.com/johnwlockwood/auth_leader",
-    package_dir={'auth_leader': 'auth_leader'},
+    url="https://github.com/johnwlockwood/corrobo",
+    package_dir={'corrobo': 'corrobo'},
     packages=packages,
     install_requires=get_install_requires(),
     tests_require=get_test_requires(),
