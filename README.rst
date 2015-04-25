@@ -8,7 +8,7 @@ only logging in once, ie. Single-sign-on.
 
 A few pieces are needed:
 
-An IAM (Identity Authentication Managment) service.
+An IAM (Identity Access Management) service.
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Establish and manage user credentials.

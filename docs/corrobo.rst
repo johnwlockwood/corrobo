@@ -15,7 +15,7 @@ verified authorization.
 Build an authentication provider
 ++++++++++++++++++++++++++++++++
 
-Make an Identity Authentication Management (IAM) web service that manages users.
+Make an Identity Access Management (IAM) web service that manages users.
     * Create user
     * Update user
     * Password reset
