@@ -29,7 +29,7 @@ Make an Identity Access Management (IAM) web service that manages users.
 
 
 
-With auth-leader add:
+With Corrobo add:
     * from a user id make a token to return to the user.
     * take unexpired token and return a new token.
 
@@ -37,3 +37,12 @@ With auth-leader add:
 If the client asks for a new token with an unexpired one, they can avoid giving their credentials again.
 
 
+Encrypted the Data in Transit
++++++++++++++++++++++++++++++
+
+This is done with TLS (Transport Layer Security).
+It requires that the server have a certificate signed by
+a certificate authority. For non-public facing servers you
+may become your own certificate authority so you can sign
+your own cryptographic keys. This allows the encrypted
+connection to be authenticated and therefore trusted.
