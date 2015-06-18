@@ -33,6 +33,9 @@ Contribute
 ==========
 Submit any issues or questions here: https://github.com/johnwlockwood/corrobo/issues.
 
+`_Quick Start notes 
+<quickstart.rst>`_.
+
 Looking for people who:
  * Would like to learn about this kind of system.
  * Know about how to defend against security attacks.
